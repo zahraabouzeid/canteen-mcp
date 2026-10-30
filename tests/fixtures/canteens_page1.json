@@ -1,0 +1,16 @@
+[
+  {
+    "id": 95,
+    "name": "Aachen, Mensa Ahorn",
+    "city": "Aachen",
+    "address": "Ahornstr. 55, 52074 Aachen",
+    "coordinates": [50.779437453530264, 6.059550046920776]
+  },
+  {
+    "id": 94,
+    "name": "Aachen, Bistro Templergraben",
+    "city": "Aachen",
+    "address": "Templergraben 55, 52062 Aachen",
+    "coordinates": [50.77784320464118, 6.078239679336547]
+  }
+]

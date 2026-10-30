@@ -1,0 +1,15 @@
+[
+  {
+    "id": 29205898,
+    "name": "Gemüse-Jambalaya | Reis",
+    "category": "Vegetarisch",
+    "prices": { "students": 2.5, "employees": null, "pupils": null, "others": 4.0 },
+    "notes": ["Sellerie", "Sojabohnen", "vegan"]
+  },
+  {
+    "id": 29205899,
+    "name": "Salatbuffet",
+    "category": "Buffet",
+    "prices": {}
+  }
+]
